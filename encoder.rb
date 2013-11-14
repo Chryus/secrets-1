@@ -7,8 +7,10 @@ def secret_message
 	step3 = step2.gsub("e","7")
 	# step4 = step3.upcase
 	# step2_string = step1_string.reverse
+	puts step3
 end
 
+secret_message()
 
 
 #Ashley's Code 
